@@ -20,5 +20,5 @@ This Dashboard is Created Using tableau for the Netflix Analysis With respect to
 ## Ratings By Year
 ![rat](https://github.com/saqib772/Netflix-Analysis/assets/121972215/d5503160-2b3b-4fc9-842d-c8d2043dd131)
 
-## Dashboard
+## Fully Dashboard
 ![full](https://github.com/saqib772/Netflix-Analysis/assets/121972215/e396fe29-e68e-43c3-9c15-bc69de06c1e2)
